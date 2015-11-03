@@ -1,0 +1,8 @@
+tile.Tblock.name=TBlock
+tile.GearExtruder.name=Gear Extruder
+
+itemGroup.ModularMachines=Modular Machines
+
+item.IronGear.name=Iron Gear
+item.BlankModule.name=Empty Module
+item.ControllerModule.name=Controller Module
